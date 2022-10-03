@@ -6,7 +6,7 @@
 > I'm a third year student studying for my B.S. in Computer Science. Within the field, I am interested in learning more about artificial intelligence and cyber security, though I want to keep my options open and continue to explore different specializations. At the moment, I am also considering a minor in environmental studies and/or pursuing my master’s. Outside of school, I sketch and paint in my free time, but recently, I’ve also been looking into doing digital illustration.
 
 ## Programming Languages (ordered by first to last learned)
-1. [Java](#first-code)
+1. [Java](#first-code-java)
 2. [Python](README.md)
 3. C
 4. C++
